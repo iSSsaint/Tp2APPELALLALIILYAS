@@ -88,14 +88,12 @@
                 android:text="Challenge1 : " />
 
             <EditText
-                android:id="@+id/editTextTextPersonName8"
+                android:id="@+id/challenge1"
                 android:layout_width="168dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:contentDescription="Entrez un entier"
                 android:ems="10"
-                android:inputType="textPersonName"
-                tools:text="Entrez un entier" />
+                android:inputType="textPersonName" />
 
         </LinearLayout>
 
@@ -113,13 +111,12 @@
                 android:text="Challenge2" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName7"
+                android:id="@+id/challenge2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:ems="10"
-                android:inputType="textPersonName"
-                android:text="Entrez un entier" />
+                android:inputType="textPersonName" />
         </LinearLayout>
 
     </LinearLayout>
